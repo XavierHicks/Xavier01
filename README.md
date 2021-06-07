@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xavier02
+- 👋 Hi, I’m @XavierHicks
 - 👀 I’m interested in learning how to better my coding
 - 🌱 I’m currently learning how code
 - 💞️ I’m looking to collaborate on a project that will help me better my coding
